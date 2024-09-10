@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+    width: 100%;
+    }
+
+li {
+    display: inline-block;
+    transition: all .5s ease-in-out;
+		width:25%;
+  	height:auto;
+    }
+
+li:hover {
+    transform: scale(1.25);
+}
+
+.wp-code-7 {
+	margin: auto;
+}

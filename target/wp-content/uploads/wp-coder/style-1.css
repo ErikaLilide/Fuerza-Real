@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contenedor {
+  width: 90%;
+
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* Cuadrícula principal */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
+  grid-gap: 20px;
+}
+
+/* Celdas de los días de la semana */
+.dia {
+  grid-row: 1;
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Celdas de las materias - Estilo general */
+.materia {
+  background-color: #fff;
+  padding: 20px;
+}
+
+/* Celdas de las materias - Miércoles y Sábado (ancho completo) */
+.grid .materia:nth-child(6) /* Segunda materia del Sábado */ {
+  grid-row: span 2; /* Ocupa dos columnas */
+}
+
+/* Hora de cada materia */
+.hora {
+  display: block;
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 5px;
+}

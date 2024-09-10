@@ -1,0 +1,304 @@
+Log created: 2024-09-09 16:00:39
+Type: backup
+[2024-09-09 16:00:39][notice]Start backing up.
+[2024-09-09 16:00:39][notice]server info fcgi:Off max execution time: 300 wp version:6.6.1 php version:8.2.20 db version:10.11.8 php ini:safe_mode: memory_limit:256M memory_get_usage:9.00 MB memory_get_peak_usage:9.39 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-09-09 16:00:39][notice]Prepare to backup backup_db files.
+[2024-09-09 16:00:39][notice]Start exporting database.
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_frmt_form_reports
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_mainwp_action_log
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_mainwp_cost_tracker
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_mainwp_group
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_mainwp_request_log
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_mainwp_users
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_mainwp_wp_actions
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_mainwp_wp_backup
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_mainwp_wp_clients
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_mainwp_wp_status
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_uwp_form_extras
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_uwp_form_fields
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_uwp_profile_tabs
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_uwp_user_sorting
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_wc_category_lookup
+[2024-09-09 16:00:39][notice]Preparing to dump table wp_wc_reserved_stock
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza_admin_notices
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza_circles
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza_image_overlays
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza_maps
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza_nominatim_geocode_cache
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza_point_labels
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza_polygon
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza_polylines
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpgmza_rectangles
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpum_registration_forms
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpum_search_fields
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpum_stripe_invoices
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_wpum_stripe_subscriptions
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_actionscheduler_claims
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_actionscheduler_groups
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_e_events
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_links
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_mainwp_wp
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_mainwp_wp_backup_progress
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_mainwp_wp_clients_contacts
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_mainwp_wp_clients_field_values
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_mainwp_wp_clients_fields
+[2024-09-09 16:00:40][notice]Preparing to dump table wp_mainwp_wp_options
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_mainwp_wp_settings_backup
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_mainwp_wp_sync
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_term_relationships
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_admin_note_actions
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_product_attributes_lookup
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_product_download_directories
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_rate_limits
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_webhooks
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_log
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_order_items
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_sessions
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_actionscheduler_logs
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_commentmeta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_mainwp_lookup_item_objects
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_mainwp_wp_group
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_mainwp_wp_logs_meta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_term_taxonomy
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_termmeta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_terms
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_usermeta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_uwp_social_profiles
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_customer_lookup
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_download_log
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_order_operational_data
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wc_orders_meta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_api_keys
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wow_coder
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wpum_fieldmeta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wpum_fields
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wpum_fieldsgroups
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_wpum_registration_formmeta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_frmt_form_entry
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_frmt_form_entry_meta
+[2024-09-09 16:00:41][notice]Preparing to dump table wp_um_metadata
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_users
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_wc_admin_notes
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_wc_order_stats
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_frmt_form_views
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_wc_order_addresses
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_wc_order_product_lookup
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_comments
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_actionscheduler_actions
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_wc_orders
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_mainwp_wp_logs
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_postmeta
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_options
+[2024-09-09 16:00:42][notice]Preparing to dump table wp_posts
+[2024-09-09 16:00:42][notice]Exporting database finished.
+[2024-09-09 16:00:42][notice]Start compressing database
+[2024-09-09 16:00:42][notice]Prepare to zip file. file: 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_db.sql
+[2024-09-09 16:00:42][notice]Adding zip files completed.192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_db.part001.zip, filesize: 855.71 KB
+[2024-09-09 16:00:42][notice]Compressing database completed
+[2024-09-09 16:00:42][notice]Backing up backup_db completed.
+[2024-09-09 16:00:42][notice]Prepare to backup backup_themes files.
+[2024-09-09 16:00:43][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.part001.zip index:370
+[2024-09-09 16:00:44][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.part001.zip success. index:370 file size:8.30 MB
+[2024-09-09 16:00:44][notice]Backing up backup_themes completed.
+[2024-09-09 16:00:44][notice]Prepare to backup backup_plugin files.
+[2024-09-09 16:00:44][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.part001.zip index:4127
+[2024-09-09 16:00:53][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.part001.zip success. index:4127 file size:22.69 MB
+[2024-09-09 16:00:53][notice]Backing up backup_plugin completed.
+[2024-09-09 16:00:53][notice]Prepare to backup backup_uploads files.
+[2024-09-09 16:00:53][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.part001.zip index:737
+[2024-09-09 16:00:57][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.part001.zip success. index:737 file size:44.15 MB
+[2024-09-09 16:00:58][notice]Backing up backup_uploads completed.
+[2024-09-09 16:00:58][notice]Prepare to backup backup_content files.
+[2024-09-09 16:00:58][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_content.part001.zip index:123
+[2024-09-09 16:00:59][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_content.part001.zip success. index:123 file size:1.52 MB
+[2024-09-09 16:00:59][notice]Backing up backup_content completed.
+[2024-09-09 16:00:59][notice]Prepare to backup backup_core files.
+[2024-09-09 16:00:59][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.part001.zip index:2679
+[2024-09-09 16:01:04][notice]Compressing zip file:192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.part001.zip success. index:2679 file size:13.99 MB
+[2024-09-09 16:01:05][notice]Backing up backup_core completed.
+[2024-09-09 16:01:05][notice]files: ["\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_db.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_content.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip"]
+[2024-09-09 16:01:05][notice]Check upload folder wpvivid_backup
+[2024-09-09 16:01:06][notice]Start uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_db.zip
+[2024-09-09 16:01:06][notice]Check if the server already has the same name file.
+[2024-09-09 16:01:06][notice]Uploaded files are less than 4M.
+[2024-09-09 16:01:07][notice]Finished uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_db.zip
+[2024-09-09 16:01:07][notice]Start uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.zip
+[2024-09-09 16:01:07][notice]Check if the server already has the same name file.
+[2024-09-09 16:01:08][notice]Creating upload session.
+[2024-09-09 16:01:08][notice]Ready to start uploading files.
+[2024-09-09 16:01:08][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3RoZW1lcy56aXAifQ/4mLrypK4Ssjh8CUR4c_mGf1xuKJjvTJTacA_ETsC6LGxqMlAFXz9TEftSGTe0JSnm3R1-Gz3CjEOuGmoqx2CMm2hgLJmuOsH5IHqdXCyWaIEM/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF90aGVtZXMuemlwIiwiQG5hbWUuY29uZmxpY3RCZWhhdmlvciI6InJlcGxhY2UifQ/4womJX9ac7aw3ckslI3LPMCp-gxoHhQ7v4_ALoFHYhq74Q_6ToK5Iym2OHrSGSlRkoeUBSQjczHaWSSd3oWqpk0B_Aj1_IdNfRz-9m55WvIuFM5yNdz5zSg11cIo8IopmMPGRoB6U2hsHz5GR0W09rAwptlWNgt_8x39iZC9G5K-Kp0S5i5yiEjwgh_uoOea_RZgOIP20vuYyVn2Tylv7_NTJtc_Wd0-r6fPflNHe0nYar8rghtxWi0dMhf0xS0FltEEjdSRYaNJdlG3oRdWlakdGwOtzFXYftdAlEH8A7ZPmOSqBLMykBVd7i2z6bQF96UZgIHbklV0O7Vv_JZXnZnSM4szLSG99TK1t_Xs01z9FVFeLU9QurVxfEfRgPbhVg8c2GsgWwuDPxedGlsF6qtwcvdD9F1xlgfVvWoVzG-ABTRErXp1GEbJyJJ9egzxA0DNu-IvhaRHmjLq96AKBeQxKuxssmenL295tHJYTUU7nfS06Ppt69ZthfDgSlHrszu73sXBSPZBVWAc_hllHsoXWkKYyjzzEVhjhKIiXRb2pUyDNFQ_r6pTUZBvGAVpAd
+[2024-09-09 16:01:09][notice]offset 0
+[2024-09-09 16:01:13][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.zip Total size: 8.30 MB Uploaded: 2.00 MB speed:349.53kb/s
+[2024-09-09 16:01:17][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.zip Total size: 8.30 MB Uploaded: 4.00 MB speed:524.29kb/s
+[2024-09-09 16:01:21][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.zip Total size: 8.30 MB Uploaded: 8.00 MB speed:1048.58kb/s
+[2024-09-09 16:01:21][notice]Finished uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.zip
+[2024-09-09 16:01:21][notice]Start uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip
+[2024-09-09 16:01:21][notice]Check if the server already has the same name file.
+[2024-09-09 16:01:21][notice]Creating upload session.
+[2024-09-09 16:01:22][notice]Ready to start uploading files.
+[2024-09-09 16:01:22][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3BsdWdpbi56aXAifQ/4mD72POzlkEgNeBLuSL9nShwlGBqUF3-xqEOqoqsVSXdgK4bkibO0ZT8bici3LW_OeAjU6tWp4Su3RTHf80CX0lIVl82ZX5j9FhiZtLEe2Nsc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9wbHVnaW4uemlwIiwiQG5hbWUuY29uZmxpY3RCZWhhdmlvciI6InJlcGxhY2UifQ/4w0TYb8P4L90nQYrEcuCUfdfRZc1nZ2_3lyn5zLwCGjFA4yA4bFMreJ7Qgl-5ElRAq1rxsM27V1zZwixmlR_hENeQ23ILRvi9kEZsq4dyYivjcXEL-oKAhzlpdAwwmtyhmCDpeji2fumvDg8Oqo38j5WRU2PoFC-iFDAbcjUE-6YAyfN4cXNJ1PFou5byE1hR7_tDdh_s2JjcWfCN4a3BPmqlIW-da3f6FNYeP5OQcIhjdoLG3qKl7btipwESMuXYjzDqdXqRtoAO5X8S_xgC76qVMNkT8TIxjFmOuulNDE_6xAUrq0Flif2v1LR2xqgK6AjGd68Bm6BuBdBzIcCgazHW19tjU3pXCL0QcaLQb5r9y6--3JVNOtsT5HsFhaR3DhFxzxwONioZ1OeKYZ6eNJs7Z3I9tJagOG0m2InP2gLbR4gVqmeBoEfBzLKXE31_D7Fd4krTlgyf1loosRapSA6vXw-yxfV610zfEtgxrSk1NNJCraWywALpsqTBW8lNJM9sLcQp2dW65eFmNyOdlW2nbUOJNcwOU1kA5RlW2pLzJ4lZV5fDIo752vV3chgd1
+[2024-09-09 16:01:22][notice]offset 0
+[2024-09-09 16:02:22][notice]http no response, start retry. http code :202
+[2024-09-09 16:02:22][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3BsdWdpbi56aXAifQ/4mD72POzlkEgNeBLuSL9nShwlGBqUF3-xqEOqoqsVSXdgK4bkibO0ZT8bici3LW_OeAjU6tWp4Su3RTHf80CX0lIVl82ZX5j9FhiZtLEe2Nsc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9wbHVnaW4uemlwIiwiQG5hbWUuY29uZmxpY3RCZWhhdmlvciI6InJlcGxhY2UifQ/4w0TYb8P4L90nQYrEcuCUfdfRZc1nZ2_3lyn5zLwCGjFA4yA4bFMreJ7Qgl-5ElRAq1rxsM27V1zZwixmlR_hENeQ23ILRvi9kEZsq4dyYivjcXEL-oKAhzlpdAwwmtyhmCDpeji2fumvDg8Oqo38j5WRU2PoFC-iFDAbcjUE-6YAyfN4cXNJ1PFou5byE1hR7_tDdh_s2JjcWfCN4a3BPmqlIW-da3f6FNYeP5OQcIhjdoLG3qKl7btipwESMuXYjzDqdXqRtoAO5X8S_xgC76qVMNkT8TIxjFmOuulNDE_6xAUrq0Flif2v1LR2xqgK6AjGd68Bm6BuBdBzIcCgazHW19tjU3pXCL0QcaLQb5r9y6--3JVNOtsT5HsFhaR3DhFxzxwONioZ1OeKYZ6eNJs7Z3I9tJagOG0m2InP2gLbR4gVqmeBoEfBzLKXE31_D7Fd4krTlgyf1loosRapSA6vXw-yxfV610zfEtgxrSk1NNJCraWywALpsqTBW8lNJM9sLcQp2dW65eFmNyOdlW2nbUOJNcwOU1kA5RlW2pLzJ4lZV5fDIo752vV3chgd1
+[2024-09-09 16:02:23][notice]offset 2097152
+[2024-09-09 16:02:23][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 2.00 MB speed:33.83kb/s
+[2024-09-09 16:03:23][notice]http no response, start retry. http code :202
+[2024-09-09 16:03:23][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3BsdWdpbi56aXAifQ/4mD72POzlkEgNeBLuSL9nShwlGBqUF3-xqEOqoqsVSXdgK4bkibO0ZT8bici3LW_OeAjU6tWp4Su3RTHf80CX0lIVl82ZX5j9FhiZtLEe2Nsc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9wbHVnaW4uemlwIiwiQG5hbWUuY29uZmxpY3RCZWhhdmlvciI6InJlcGxhY2UifQ/4w0TYb8P4L90nQYrEcuCUfdfRZc1nZ2_3lyn5zLwCGjFA4yA4bFMreJ7Qgl-5ElRAq1rxsM27V1zZwixmlR_hENeQ23ILRvi9kEZsq4dyYivjcXEL-oKAhzlpdAwwmtyhmCDpeji2fumvDg8Oqo38j5WRU2PoFC-iFDAbcjUE-6YAyfN4cXNJ1PFou5byE1hR7_tDdh_s2JjcWfCN4a3BPmqlIW-da3f6FNYeP5OQcIhjdoLG3qKl7btipwESMuXYjzDqdXqRtoAO5X8S_xgC76qVMNkT8TIxjFmOuulNDE_6xAUrq0Flif2v1LR2xqgK6AjGd68Bm6BuBdBzIcCgazHW19tjU3pXCL0QcaLQb5r9y6--3JVNOtsT5HsFhaR3DhFxzxwONioZ1OeKYZ6eNJs7Z3I9tJagOG0m2InP2gLbR4gVqmeBoEfBzLKXE31_D7Fd4krTlgyf1loosRapSA6vXw-yxfV610zfEtgxrSk1NNJCraWywALpsqTBW8lNJM9sLcQp2dW65eFmNyOdlW2nbUOJNcwOU1kA5RlW2pLzJ4lZV5fDIo752vV3chgd1
+[2024-09-09 16:03:23][notice]offset 4194304
+[2024-09-09 16:03:23][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 4.00 MB speed:34.95kb/s
+[2024-09-09 16:04:23][notice]http no response, start retry. http code :202
+[2024-09-09 16:04:23][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3BsdWdpbi56aXAifQ/4mD72POzlkEgNeBLuSL9nShwlGBqUF3-xqEOqoqsVSXdgK4bkibO0ZT8bici3LW_OeAjU6tWp4Su3RTHf80CX0lIVl82ZX5j9FhiZtLEe2Nsc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9wbHVnaW4uemlwIiwiQG5hbWUuY29uZmxpY3RCZWhhdmlvciI6InJlcGxhY2UifQ/4w0TYb8P4L90nQYrEcuCUfdfRZc1nZ2_3lyn5zLwCGjFA4yA4bFMreJ7Qgl-5ElRAq1rxsM27V1zZwixmlR_hENeQ23ILRvi9kEZsq4dyYivjcXEL-oKAhzlpdAwwmtyhmCDpeji2fumvDg8Oqo38j5WRU2PoFC-iFDAbcjUE-6YAyfN4cXNJ1PFou5byE1hR7_tDdh_s2JjcWfCN4a3BPmqlIW-da3f6FNYeP5OQcIhjdoLG3qKl7btipwESMuXYjzDqdXqRtoAO5X8S_xgC76qVMNkT8TIxjFmOuulNDE_6xAUrq0Flif2v1LR2xqgK6AjGd68Bm6BuBdBzIcCgazHW19tjU3pXCL0QcaLQb5r9y6--3JVNOtsT5HsFhaR3DhFxzxwONioZ1OeKYZ6eNJs7Z3I9tJagOG0m2InP2gLbR4gVqmeBoEfBzLKXE31_D7Fd4krTlgyf1loosRapSA6vXw-yxfV610zfEtgxrSk1NNJCraWywALpsqTBW8lNJM9sLcQp2dW65eFmNyOdlW2nbUOJNcwOU1kA5RlW2pLzJ4lZV5fDIo752vV3chgd1
+[2024-09-09 16:04:24][notice]offset 6291456
+[2024-09-09 16:04:24][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 6.00 MB speed:34.38kb/s
+[2024-09-09 16:05:24][notice]http no response, start retry. http code :202
+[2024-09-09 16:05:24][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3BsdWdpbi56aXAifQ/4mD72POzlkEgNeBLuSL9nShwlGBqUF3-xqEOqoqsVSXdgK4bkibO0ZT8bici3LW_OeAjU6tWp4Su3RTHf80CX0lIVl82ZX5j9FhiZtLEe2Nsc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9wbHVnaW4uemlwIiwiQG5hbWUuY29uZmxpY3RCZWhhdmlvciI6InJlcGxhY2UifQ/4w0TYb8P4L90nQYrEcuCUfdfRZc1nZ2_3lyn5zLwCGjFA4yA4bFMreJ7Qgl-5ElRAq1rxsM27V1zZwixmlR_hENeQ23ILRvi9kEZsq4dyYivjcXEL-oKAhzlpdAwwmtyhmCDpeji2fumvDg8Oqo38j5WRU2PoFC-iFDAbcjUE-6YAyfN4cXNJ1PFou5byE1hR7_tDdh_s2JjcWfCN4a3BPmqlIW-da3f6FNYeP5OQcIhjdoLG3qKl7btipwESMuXYjzDqdXqRtoAO5X8S_xgC76qVMNkT8TIxjFmOuulNDE_6xAUrq0Flif2v1LR2xqgK6AjGd68Bm6BuBdBzIcCgazHW19tjU3pXCL0QcaLQb5r9y6--3JVNOtsT5HsFhaR3DhFxzxwONioZ1OeKYZ6eNJs7Z3I9tJagOG0m2InP2gLbR4gVqmeBoEfBzLKXE31_D7Fd4krTlgyf1loosRapSA6vXw-yxfV610zfEtgxrSk1NNJCraWywALpsqTBW8lNJM9sLcQp2dW65eFmNyOdlW2nbUOJNcwOU1kA5RlW2pLzJ4lZV5fDIo752vV3chgd1
+[2024-09-09 16:05:24][notice]offset 8388608
+[2024-09-09 16:05:24][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 8.00 MB speed:34.95kb/s
+[2024-09-09 16:06:24][notice]http no response, start retry. http code :202
+[2024-09-09 16:06:24][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3BsdWdpbi56aXAifQ/4mD72POzlkEgNeBLuSL9nShwlGBqUF3-xqEOqoqsVSXdgK4bkibO0ZT8bici3LW_OeAjU6tWp4Su3RTHf80CX0lIVl82ZX5j9FhiZtLEe2Nsc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9wbHVnaW4uemlwIiwiQG5hbWUuY29uZmxpY3RCZWhhdmlvciI6InJlcGxhY2UifQ/4w0TYb8P4L90nQYrEcuCUfdfRZc1nZ2_3lyn5zLwCGjFA4yA4bFMreJ7Qgl-5ElRAq1rxsM27V1zZwixmlR_hENeQ23ILRvi9kEZsq4dyYivjcXEL-oKAhzlpdAwwmtyhmCDpeji2fumvDg8Oqo38j5WRU2PoFC-iFDAbcjUE-6YAyfN4cXNJ1PFou5byE1hR7_tDdh_s2JjcWfCN4a3BPmqlIW-da3f6FNYeP5OQcIhjdoLG3qKl7btipwESMuXYjzDqdXqRtoAO5X8S_xgC76qVMNkT8TIxjFmOuulNDE_6xAUrq0Flif2v1LR2xqgK6AjGd68Bm6BuBdBzIcCgazHW19tjU3pXCL0QcaLQb5r9y6--3JVNOtsT5HsFhaR3DhFxzxwONioZ1OeKYZ6eNJs7Z3I9tJagOG0m2InP2gLbR4gVqmeBoEfBzLKXE31_D7Fd4krTlgyf1loosRapSA6vXw-yxfV610zfEtgxrSk1NNJCraWywALpsqTBW8lNJM9sLcQp2dW65eFmNyOdlW2nbUOJNcwOU1kA5RlW2pLzJ4lZV5fDIo752vV3chgd1
+[2024-09-09 16:06:29][notice]offset 10485760
+[2024-09-09 16:06:29][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 10.00 MB speed:32.26kb/s
+[2024-09-09 16:11:01][notice]Start backing up.
+[2024-09-09 16:11:01][notice]server info fcgi:Off max execution time: 300 wp version:6.6.1 php version:8.2.20 db version:10.11.8 php ini:safe_mode: memory_limit:256M memory_get_usage:5.99 MB memory_get_peak_usage:6.31 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-09-09 16:11:01][notice]files: ["\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_db.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_content.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip"]
+[2024-09-09 16:11:01][notice]Check upload folder wpvivid_backup
+[2024-09-09 16:11:03][notice]Start uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip
+[2024-09-09 16:11:03][notice]Check if the server already has the same name file.
+[2024-09-09 16:11:04][notice]Ready to start uploading files.
+[2024-09-09 16:11:04][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3BsdWdpbi56aXAifQ/4mD72POzlkEgNeBLuSL9nShwlGBqUF3-xqEOqoqsVSXdgK4bkibO0ZT8bici3LW_OeAjU6tWp4Su3RTHf80CX0lIVl82ZX5j9FhiZtLEe2Nsc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9wbHVnaW4uemlwIiwiQG5hbWUuY29uZmxpY3RCZWhhdmlvciI6InJlcGxhY2UifQ/4w0TYb8P4L90nQYrEcuCUfdfRZc1nZ2_3lyn5zLwCGjFA4yA4bFMreJ7Qgl-5ElRAq1rxsM27V1zZwixmlR_hENeQ23ILRvi9kEZsq4dyYivjcXEL-oKAhzlpdAwwmtyhmCDpeji2fumvDg8Oqo38j5WRU2PoFC-iFDAbcjUE-6YAyfN4cXNJ1PFou5byE1hR7_tDdh_s2JjcWfCN4a3BPmqlIW-da3f6FNYeP5OQcIhjdoLG3qKl7btipwESMuXYjzDqdXqRtoAO5X8S_xgC76qVMNkT8TIxjFmOuulNDE_6xAUrq0Flif2v1LR2xqgK6AjGd68Bm6BuBdBzIcCgazHW19tjU3pXCL0QcaLQb5r9y6--3JVNOtsT5HsFhaR3DhFxzxwONioZ1OeKYZ6eNJs7Z3I9tJagOG0m2InP2gLbR4gVqmeBoEfBzLKXE31_D7Fd4krTlgyf1loosRapSA6vXw-yxfV610zfEtgxrSk1NNJCraWywALpsqTBW8lNJM9sLcQp2dW65eFmNyOdlW2nbUOJNcwOU1kA5RlW2pLzJ4lZV5fDIo752vV3chgd1
+[2024-09-09 16:11:05][notice]offset 12582912
+[2024-09-09 16:12:05][notice]http no response, start retry. http code :202
+[2024-09-09 16:12:05][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3BsdWdpbi56aXAifQ/4mD72POzlkEgNeBLuSL9nShwlGBqUF3-xqEOqoqsVSXdgK4bkibO0ZT8bici3LW_OeAjU6tWp4Su3RTHf80CX0lIVl82ZX5j9FhiZtLEe2Nsc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9wbHVnaW4uemlwIiwiQG5hbWUuY29uZmxpY3RCZWhhdmlvciI6InJlcGxhY2UifQ/4w0TYb8P4L90nQYrEcuCUfdfRZc1nZ2_3lyn5zLwCGjFA4yA4bFMreJ7Qgl-5ElRAq1rxsM27V1zZwixmlR_hENeQ23ILRvi9kEZsq4dyYivjcXEL-oKAhzlpdAwwmtyhmCDpeji2fumvDg8Oqo38j5WRU2PoFC-iFDAbcjUE-6YAyfN4cXNJ1PFou5byE1hR7_tDdh_s2JjcWfCN4a3BPmqlIW-da3f6FNYeP5OQcIhjdoLG3qKl7btipwESMuXYjzDqdXqRtoAO5X8S_xgC76qVMNkT8TIxjFmOuulNDE_6xAUrq0Flif2v1LR2xqgK6AjGd68Bm6BuBdBzIcCgazHW19tjU3pXCL0QcaLQb5r9y6--3JVNOtsT5HsFhaR3DhFxzxwONioZ1OeKYZ6eNJs7Z3I9tJagOG0m2InP2gLbR4gVqmeBoEfBzLKXE31_D7Fd4krTlgyf1loosRapSA6vXw-yxfV610zfEtgxrSk1NNJCraWywALpsqTBW8lNJM9sLcQp2dW65eFmNyOdlW2nbUOJNcwOU1kA5RlW2pLzJ4lZV5fDIo752vV3chgd1
+[2024-09-09 16:12:06][notice]offset 14680064
+[2024-09-09 16:12:06][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 14.00 MB speed:233.02kb/s
+[2024-09-09 16:12:26][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 16.00 MB speed:104.86kb/s
+[2024-09-09 16:12:42][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 18.00 MB speed:131.07kb/s
+[2024-09-09 16:12:47][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 20.00 MB speed:419.43kb/s
+[2024-09-09 16:12:53][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip Total size: 22.69 MB Uploaded: 22.00 MB speed:349.53kb/s
+[2024-09-09 16:12:53][notice]Finished uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip
+[2024-09-09 16:12:53][notice]Start uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip
+[2024-09-09 16:12:53][notice]Check if the server already has the same name file.
+[2024-09-09 16:12:54][notice]Creating upload session.
+[2024-09-09 16:12:55][notice]Ready to start uploading files.
+[2024-09-09 16:12:55][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:12:58][notice]offset 0
+[2024-09-09 16:13:58][notice]http no response, start retry. http code :202
+[2024-09-09 16:13:58][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:13:58][notice]offset 2097152
+[2024-09-09 16:13:58][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 2.00 MB speed:32.26kb/s
+[2024-09-09 16:14:58][notice]http no response, start retry. http code :202
+[2024-09-09 16:14:58][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:14:59][notice]offset 4194304
+[2024-09-09 16:14:59][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 4.00 MB speed:34.38kb/s
+[2024-09-09 16:15:59][notice]http no response, start retry. http code :202
+[2024-09-09 16:15:59][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:16:05][notice]offset 6291456
+[2024-09-09 16:16:05][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 6.00 MB speed:31.78kb/s
+[2024-09-09 16:17:05][notice]http no response, start retry. http code :202
+[2024-09-09 16:17:05][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:17:07][notice]offset 8388608
+[2024-09-09 16:17:07][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 8.00 MB speed:33.83kb/s
+[2024-09-09 16:18:07][notice]http no response, start retry. http code :202
+[2024-09-09 16:18:07][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:18:16][notice]offset 10485760
+[2024-09-09 16:18:16][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 10.00 MB speed:30.39kb/s
+[2024-09-09 16:19:16][notice]http no response, start retry. http code :202
+[2024-09-09 16:19:16][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:19:17][notice]offset 12582912
+[2024-09-09 16:19:17][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 12.00 MB speed:34.38kb/s
+[2024-09-09 16:20:17][notice]http no response, start retry. http code :202
+[2024-09-09 16:20:17][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:20:18][notice]offset 14680064
+[2024-09-09 16:20:18][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 14.00 MB speed:34.38kb/s
+[2024-09-09 16:21:18][notice]http no response, start retry. http code :202
+[2024-09-09 16:21:18][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:21:20][notice]offset 16777216
+[2024-09-09 16:21:20][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 16.00 MB speed:33.83kb/s
+[2024-09-09 16:26:27][notice]Start backing up.
+[2024-09-09 16:26:27][notice]server info fcgi:Off max execution time: 300 wp version:6.6.1 php version:8.2.20 db version:10.11.8 php ini:safe_mode: memory_limit:256M memory_get_usage:6.00 MB memory_get_peak_usage:6.31 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-09-09 16:26:27][notice]files: ["\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_db.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_content.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip"]
+[2024-09-09 16:26:27][notice]Check upload folder wpvivid_backup
+[2024-09-09 16:26:28][notice]Start uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip
+[2024-09-09 16:26:28][notice]Check if the server already has the same name file.
+[2024-09-09 16:26:28][notice]Ready to start uploading files.
+[2024-09-09 16:26:28][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:26:29][notice]offset 18874368
+[2024-09-09 16:27:29][notice]http no response, start retry. http code :202
+[2024-09-09 16:27:29][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:27:29][notice]offset 20971520
+[2024-09-09 16:27:29][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 20.00 MB speed:343.8kb/s
+[2024-09-09 16:28:30][notice]http no response, start retry. http code :202
+[2024-09-09 16:28:30][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:28:30][notice]offset 23068672
+[2024-09-09 16:28:30][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 22.00 MB speed:34.95kb/s
+[2024-09-09 16:29:30][notice]http no response, start retry. http code :202
+[2024-09-09 16:29:30][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:29:31][notice]offset 25165824
+[2024-09-09 16:29:31][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 24.00 MB speed:34.38kb/s
+[2024-09-09 16:30:31][notice]http no response, start retry. http code :202
+[2024-09-09 16:30:31][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:30:31][notice]offset 27262976
+[2024-09-09 16:30:31][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 26.00 MB speed:34.95kb/s
+[2024-09-09 16:31:31][notice]http no response, start retry. http code :202
+[2024-09-09 16:31:31][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:31:32][notice]offset 29360128
+[2024-09-09 16:31:32][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 28.00 MB speed:34.38kb/s
+[2024-09-09 16:35:43][notice]Start backing up.
+[2024-09-09 16:35:43][notice]server info fcgi:Off max execution time: 300 wp version:6.6.1 php version:8.2.20 db version:10.11.8 php ini:safe_mode: memory_limit:256M memory_get_usage:6.00 MB memory_get_peak_usage:6.31 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-09-09 16:35:43][notice]files: ["\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_db.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_themes.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_plugin.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_content.zip","\/var\/www\/html\/wp-content\/wpvividbackups\/192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip"]
+[2024-09-09 16:35:43][notice]Check upload folder wpvivid_backup
+[2024-09-09 16:35:44][notice]Start uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip
+[2024-09-09 16:35:44][notice]Check if the server already has the same name file.
+[2024-09-09 16:35:44][notice]Ready to start uploading files.
+[2024-09-09 16:35:44][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:35:45][notice]offset 31457280
+[2024-09-09 16:36:45][notice]http no response, start retry. http code :202
+[2024-09-09 16:36:45][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:36:45][notice]offset 33554432
+[2024-09-09 16:36:45][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 32.00 MB speed:550.07kb/s
+[2024-09-09 16:37:45][notice]http no response, start retry. http code :202
+[2024-09-09 16:37:45][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX3VwbG9hZHMuemlwIn0/4mUSdvh0UTMBh2mEZFrepom4EY0SQEJaIRSWWXhDexGaHjw3xSdxthMCZKnG9Gw73YJkTql4DuIGhaSuzi3TozcBv6QCEWzeh-xTBsgf0Wjnc/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF91cGxvYWRzLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wZazOVk3Bsk6G9CPw5T3HTLqDJ8YzTztP4oWAi9J5uiNotpVuj3ubWPYgsG1RLTF1B3PK-16RG3rZPCEyNK7NQ61bubhLbWtz9P9HqUrIQDtAGNDvNxB-GLvrlzv_DZlGEz-IHD-JSEjyC1CTJ6KMvfXCmnNHqSPFJkjLO9pAP1wOm-w64dsfEMZ5TrXUaGb-wHpXqzOq9XaiCHDUFaOo9e7Dzj4bTfeEXz7KROaZPQBpZrLph5Iwak1TyWveP_CLVY5FdSQuLwmXjX2Yb2jHO9hkE8mZGBaR5vFYrMhsuJBFfZK983-d9eZtQYLW2fz6RY-SLSReMNkCrukv5Mbw-fnF4fE2MGl8Yno07TdrJdJXWnNPknMNX7ZFtHdPb5nr2szYcuRCr7_pIGNJ-Lf0RbGwwmXq36i4JKGB_Q3U493ZhJabolx18ZAUkP1MhUfk-nOOrCBvvDkLzukE6bdy7CVdGS7IAMUowJcB_STTkOvNeSr1J0LQ7twVPuVw-iSOzraKa08apzB0bWxf04kxa4VKmwNKn-7jFbkYDGDzkZxqIjPgjFiKd6hDRxeJndQI
+[2024-09-09 16:37:46][notice]offset 35651584
+[2024-09-09 16:37:46][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 34.00 MB speed:34.38kb/s
+[2024-09-09 16:37:50][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 36.00 MB speed:524.29kb/s
+[2024-09-09 16:37:58][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 38.00 MB speed:262.14kb/s
+[2024-09-09 16:38:04][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip Total size: 44.15 MB Uploaded: 42.00 MB speed:699.05kb/s
+[2024-09-09 16:38:06][notice]Finished uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_uploads.zip
+[2024-09-09 16:38:06][notice]Start uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_content.zip
+[2024-09-09 16:38:06][notice]Check if the server already has the same name file.
+[2024-09-09 16:38:07][notice]Uploaded files are less than 4M.
+[2024-09-09 16:38:09][notice]Finished uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_content.zip
+[2024-09-09 16:38:09][notice]Start uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip
+[2024-09-09 16:38:09][notice]Check if the server already has the same name file.
+[2024-09-09 16:38:09][notice]Creating upload session.
+[2024-09-09 16:38:14][notice]Ready to start uploading files.
+[2024-09-09 16:38:14][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX2NvcmUuemlwIn0/4mT11VD4PTPJU1zQrUrAmBRIafT3rL_E9EMXockOYf84pddS7U_M59Rxg2gzATOGipKg5YXrIeCSleCxIq_7-nSBjlBaKBlI-_OfXypjQstns/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9jb3JlLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wxpCeywznOUv5h4RguJCmruBIdOiXMCn9Dkx7Ew5s4Rg9BTbfICv9KMh6lda-zvhmAK6-9kO3uY70aOY9swuBGLHKXzYF085xXIvbAXK_0IkiXeqhjiuZm0fciY8CbW40yU6JLNJrhK7Zh-8_m5es-ERbm0bd_KJr3dEY20PCwsEbYRMivi0NwsS0Hbu36xLrxobnQ5vin2Nv8DEKp8zmPuqcBt-ql3MS19-wbYqnoBzRDPSQ6DNC2vOpQNjIKLloxofhrQxLGJIALmqBA2FL1FFwIbxjqM9whwUOWs_BYhlGzFWpQmi4eBnSJ3ClYor5laQLm6gPGcXE1yHy1X4f4ydDVMu3hybduZjMa6FwuW8Qj73odZoL6aJIXetpYsP0XLUAYd7S2RJdF9gcHHvsgA7oWJhhrqvMI5jEU4vJQV3Tewpel44EpqLmOjrfN-blUyfERlckGGMklH8cb0wfvT9tc8eNMmyqyzp_7yTGQmd_M9QRyVLUWnrp85kKnT0fHxdwe_4qkOw2_qVRCux4ly9p94Ypop8_s1QuhlXK6qrkQGvEAAbuPUDLNE4WvqHw
+[2024-09-09 16:38:14][notice]offset 0
+[2024-09-09 16:39:14][notice]http no response, start retry. http code :202
+[2024-09-09 16:39:14][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX2NvcmUuemlwIn0/4mT11VD4PTPJU1zQrUrAmBRIafT3rL_E9EMXockOYf84pddS7U_M59Rxg2gzATOGipKg5YXrIeCSleCxIq_7-nSBjlBaKBlI-_OfXypjQstns/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9jb3JlLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wxpCeywznOUv5h4RguJCmruBIdOiXMCn9Dkx7Ew5s4Rg9BTbfICv9KMh6lda-zvhmAK6-9kO3uY70aOY9swuBGLHKXzYF085xXIvbAXK_0IkiXeqhjiuZm0fciY8CbW40yU6JLNJrhK7Zh-8_m5es-ERbm0bd_KJr3dEY20PCwsEbYRMivi0NwsS0Hbu36xLrxobnQ5vin2Nv8DEKp8zmPuqcBt-ql3MS19-wbYqnoBzRDPSQ6DNC2vOpQNjIKLloxofhrQxLGJIALmqBA2FL1FFwIbxjqM9whwUOWs_BYhlGzFWpQmi4eBnSJ3ClYor5laQLm6gPGcXE1yHy1X4f4ydDVMu3hybduZjMa6FwuW8Qj73odZoL6aJIXetpYsP0XLUAYd7S2RJdF9gcHHvsgA7oWJhhrqvMI5jEU4vJQV3Tewpel44EpqLmOjrfN-blUyfERlckGGMklH8cb0wfvT9tc8eNMmyqyzp_7yTGQmd_M9QRyVLUWnrp85kKnT0fHxdwe_4qkOw2_qVRCux4ly9p94Ypop8_s1QuhlXK6qrkQGvEAAbuPUDLNE4WvqHw
+[2024-09-09 16:39:15][notice]offset 2097152
+[2024-09-09 16:39:15][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip Total size: 13.99 MB Uploaded: 2.00 MB speed:31.78kb/s
+[2024-09-09 16:40:15][notice]http no response, start retry. http code :202
+[2024-09-09 16:40:15][notice]uploadUrl: https://api.onedrive.com/rup/a6725f2cf74adf68/eyJSZXNvdXJjZUlEIjoiQTY3MjVGMkNGNzRBREY2OCE0NjYyNiIsIlJlbGF0aW9uc2hpcE5hbWUiOiIxOTIuMTY4LjEuMjRfd3B2aXZpZC02NmRmNzAwNzY5MWExXzIwMjQtMDktMDktMTYtMDBfYmFja3VwX2NvcmUuemlwIn0/4mT11VD4PTPJU1zQrUrAmBRIafT3rL_E9EMXockOYf84pddS7U_M59Rxg2gzATOGipKg5YXrIeCSleCxIq_7-nSBjlBaKBlI-_OfXypjQstns/eyJuYW1lIjoiMTkyLjE2OC4xLjI0X3dwdml2aWQtNjZkZjcwMDc2OTFhMV8yMDI0LTA5LTA5LTE2LTAwX2JhY2t1cF9jb3JlLnppcCIsIkBuYW1lLmNvbmZsaWN0QmVoYXZpb3IiOiJyZXBsYWNlIn0/4wxpCeywznOUv5h4RguJCmruBIdOiXMCn9Dkx7Ew5s4Rg9BTbfICv9KMh6lda-zvhmAK6-9kO3uY70aOY9swuBGLHKXzYF085xXIvbAXK_0IkiXeqhjiuZm0fciY8CbW40yU6JLNJrhK7Zh-8_m5es-ERbm0bd_KJr3dEY20PCwsEbYRMivi0NwsS0Hbu36xLrxobnQ5vin2Nv8DEKp8zmPuqcBt-ql3MS19-wbYqnoBzRDPSQ6DNC2vOpQNjIKLloxofhrQxLGJIALmqBA2FL1FFwIbxjqM9whwUOWs_BYhlGzFWpQmi4eBnSJ3ClYor5laQLm6gPGcXE1yHy1X4f4ydDVMu3hybduZjMa6FwuW8Qj73odZoL6aJIXetpYsP0XLUAYd7S2RJdF9gcHHvsgA7oWJhhrqvMI5jEU4vJQV3Tewpel44EpqLmOjrfN-blUyfERlckGGMklH8cb0wfvT9tc8eNMmyqyzp_7yTGQmd_M9QRyVLUWnrp85kKnT0fHxdwe_4qkOw2_qVRCux4ly9p94Ypop8_s1QuhlXK6qrkQGvEAAbuPUDLNE4WvqHw
+[2024-09-09 16:40:15][notice]offset 4194304
+[2024-09-09 16:40:15][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip Total size: 13.99 MB Uploaded: 4.00 MB speed:34.95kb/s
+[2024-09-09 16:40:20][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip Total size: 13.99 MB Uploaded: 6.00 MB speed:419.43kb/s
+[2024-09-09 16:40:25][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip Total size: 13.99 MB Uploaded: 8.00 MB speed:419.43kb/s
+[2024-09-09 16:40:29][notice]Uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip Total size: 13.99 MB Uploaded: 12.00 MB speed:1048.58kb/s
+[2024-09-09 16:40:30][notice]Finished uploading 192.168.1.24_wpvivid-66df7007691a1_2024-09-09-16-00_backup_core.zip
+[2024-09-09 16:40:30][notice]Finish upload to onedrive
