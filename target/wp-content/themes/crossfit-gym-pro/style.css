@@ -1027,7 +1027,7 @@ iframe{ width:100%;}
 .contact_right h3{ margin-bottom:20px; font-size:24px; font-weight:600;}
 h3.post-title{ margin-bottom:15px; font-weight:400; font-size:28px; line-height:24px;}
 .post-title a{ color:#3d3d3d;}
-.blog-post-repeat .postmeta{  margin-bottom:10px; font-size:15px; font-weight:600; color:#28228;}
+.blog-post-repeat .postmeta{  margin-bottom:10px; font-size:15px; font-weight:600; color:#282282;}
 p.read-more a{ text-decoration: none; background-color:#ff6565; color:#fff; text-align:center; padding:5px 15px;  display:inline-block; border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px;}
 p.read-more a:hover { background-color:#34c6f6;}
 
@@ -1283,3 +1283,17 @@ input.wpcf7-not-valid{ border-bottom:solid 1px #ff0000 !important}
 
 /*fade*/
 .fitness-yoga .fitness-yoga-thumb img, .our-services-bg, .our_classes_box .our_classes_thumb img, .our_classes_box .info h6, .our_classes_box .info .classes-readmore h5, .fitness-yoga .fitness-yoga-content h3, .fitness-yoga .fitness-yoga-content p, .fitness-yoga-icon, .fitness-yoga .fitness-yoga-thumb, .fitness-yoga .fitness-yoga-content, .our-achivement .achivement-bg, .our-achivement .achivement-bg h4, .services-title h3, .our_classes_thumb, .whychooseus_box .whychooseus-icon, .whychooseus_box h3, .top4box .topboxbg, .top4box h6, .special-service .special-service-thumb img, .special-service .special-service-content h3, .special-service .special-service-content, .teammember-list .member-social-icon, .whychooseus_box_bg, .whychooseus_box_bg h3, .whychooseus_box_bg h6, .woocommerce ul.products li.product .product-thumb img, .woocommerce ul.products li .product_type_simple, .woocommerce ul.products li .product_type_external, .woocommerce ul.products li .product_type_grouped, .most_video_bg img, .most_video_bg i, .news-box img, .news-box, .videobox img, .member-social-icon, .teammember-list img, .top4box .thumbbx{transition:all ease-in-out .4s;-ms-transition:all ease-in-out .4s;-webkit-transition:all ease-in-out .4s;}
+
+/*custom-login form */
+
+.login-form-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px;
+    background: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+#loginform p {
+    margin: 10px 0;
+}

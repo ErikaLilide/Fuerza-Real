@@ -778,10 +778,16 @@ function smittenkitchen_archive_count_span( $links ) {
 }
 add_filter( 'get_archives_link', 'smittenkitchen_archive_count_span' );
 
-// NAV: login
-function mostrar_formulario_login() {
-    get_template_part( 'template-parts/login' ); // Asegúrate de que el archivo se llama login.php
-}
 
-// NAV: short-login
-add_shortcode( 'login_form', 'mostrar_formulario_login' );
+function custom_login_redirect($redirect_to, $request, $user) {
+    // Redirige a la página de inicio o a la dashboard según el rol del usuario
+    if (isset($user->roles) && is_array($user->roles)) {
+        if (in_array('administrator', $user->roles)) {
+            return admin_url();
+        } else {
+            return home_url();
+        }
+    }
+    return $redirect_to;
+}
+add_filter('login_redirect', 'custom_login_redirect', 10, 3);
