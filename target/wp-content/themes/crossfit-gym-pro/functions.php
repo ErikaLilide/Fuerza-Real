@@ -780,7 +780,7 @@ add_filter( 'get_archives_link', 'smittenkitchen_archive_count_span' );
 
 // NAV: login
 function mostrar_formulario_login() {
-    get_template_part( 'login' ); // Asegúrate de que el archivo se llama login.php
+    get_template_part( 'template-parts/login' ); // Asegúrate de que el archivo se llama login.php
 }
 
 // NAV: short-login
