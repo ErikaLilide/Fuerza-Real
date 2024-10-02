@@ -777,3 +777,11 @@ function smittenkitchen_archive_count_span( $links ) {
 	return $links;
 }
 add_filter( 'get_archives_link', 'smittenkitchen_archive_count_span' );
+
+// NAV: login
+function mostrar_formulario_login() {
+    get_template_part( 'login' ); // Asegúrate de que el archivo se llama login.php
+}
+
+// NAV: short-login
+add_shortcode( 'login_form', 'mostrar_formulario_login' );
