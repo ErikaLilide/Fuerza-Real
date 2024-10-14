@@ -136,6 +136,12 @@
   </div>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<script>
+  $(".cover-body").delay(4000).fadeOut(10);
+</script>
+
 <div class="sitewrapper <?php if( of_get_option('boxlayout', true) != '' ) { ?>boxlayout<?php } ?>">
 <div class="header">
   <?php if( of_get_option('headinfodata',true) != true) { ?>
