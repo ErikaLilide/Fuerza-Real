@@ -33,23 +33,14 @@
 <body id="top" <?php body_class(); ?>>
 
 <!--Preloader-->
-<div class="cover-body"
-  <div id="preloader" class="preloader">
-    <div class="loader-section section-left"></div>
-    <div class="loader-section section-right"></div>
-    <div class="spinner">
-    </div>
-    <img class= "icon" src="http://192.168.1.24:8080/wp-content/uploads/2024/07/FR_Icon_Amarillo-e1721456778978.png" />
-  </div>
-</div>
 
-$(document).ready(function() {
-	
-	setTimeout(function() {
-		$('#preloader').addClass('loaded');
-	}, 2500);
-	
-});
+<div id="preloader" class="preloader">
+  <div class="loader-section section-left"></div>
+  <div class="loader-section section-right"></div>
+  <div class="spinner">
+  </div>
+  <img class= "icon" src="http://192.168.1.24:8080/wp-content/uploads/2024/07/FR_Icon_Amarillo-e1721456778978.png" />
+</div>
 
 
 <div class="sitewrapper <?php if( of_get_option('boxlayout', true) != '' ) { ?>boxlayout<?php } ?>">
