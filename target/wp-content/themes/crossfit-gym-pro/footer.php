@@ -210,6 +210,13 @@ $footerlayout = of_get_option('footerlayout');
 <?php if( of_get_option('backtotop') != '') { echo do_shortcode(of_get_option('backtotop')); } ; ?>
 <?php wp_footer(); ?>
 </div>
-<script src="<?php echo get_stylesheet_directory_uri(); ?>/custom.js"></script>
+<script>
+$(document).ready(function() {
+    setTimeout(function() {
+        $('#preloader').addClass('loaded');
+    }, 2500);
+});
+</script>
+
 </body>
 </html>
