@@ -31,6 +31,111 @@
 </head>
 
 <body id="top" <?php body_class(); ?>>
+
+<!--Preloader-->
+<div class="cover-body">
+
+  <div class="marquee-wrapper" id="hidePreloader">
+    <div class="marquee left">
+
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+
+    </div>
+    <div class="marquee right">
+
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+
+    </div>
+    <div class="marquee left">
+
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+
+    </div>
+    <div class="marquee right">
+
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+
+    </div>
+    <div class="marquee left">
+
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+
+    </div>
+    <div class="marquee right">
+
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+
+    </div>
+    <div class="marquee left">
+
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+
+    </div>
+    <div class="marquee right">
+
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+
+    </div>
+    <div class="marquee left">
+
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+
+    </div>
+    <div class="marquee right">
+
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+
+    </div>
+    <div class="marquee left">
+
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+      <img href="#" class="preloader-logo-1"/>
+
+    </div>
+    <div class="marquee right">
+
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+      <img href="#" class="preloader-logo-2"/>
+
+    </div>
+
+  </div>
+</div>
+
 <div class="sitewrapper <?php if( of_get_option('boxlayout', true) != '' ) { ?>boxlayout<?php } ?>">
 <div class="header">
   <?php if( of_get_option('headinfodata',true) != true) { ?>
