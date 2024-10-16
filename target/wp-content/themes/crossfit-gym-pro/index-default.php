@@ -441,7 +441,44 @@ ul.list-style li:before, ul.list-style li a:hover, .counterlist h3.counter, .con
     <!-- .container --> 
   </section>
   <!-- #pagearea -->
-  
+  <section style="background-color:#f7f7f7; " id="section5" class="menu_page">
+    <div class="container">
+      <div class="">
+        <div class="area_row">
+          <div class="left-column-50">
+            <div class="history_thumbnail_image">
+              <div class="thumbnail_image"><img src="<?php echo get_template_directory_uri(); ?>/images/thumbnail-2.jpg" /></div>
+            </div>
+          </div>
+          <div class="right-column-50">
+            <div class="sec_content_main_title" style="text-align:left; color:#282828"><span class="sub-title-head" style="text-align:left;">Have Extra Weight?</span>Lose your weight in just 2 weeks</div>
+            <div class="subtitle" style="font-size:17px; color:#494848; margin:0 0 50px 0; text-align:left;">Praesent nec metus malesuada, sollicitudin arcu nec, pharetr felis. Ut sollicitudin ut lectus feugiat sodales. Aliquam erat volut. Quisque tempus pulvinar nibh, sit amet varius ex fringilla vitae. Sed pharetra diam ut leo efficitur eleifend. Integer ut auctor justo. Praesent inday viverra dui. Aenean aliquet neque <a class="AppLink" href="" target=""></a></div>
+            <div class="our-achivement"> <a href="#">
+              <div class="achivement-bg">
+                <div class="title-icon-thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/achivement-1.png" /></div>
+                <h4>Visit Our Gym</h4>
+              </div>
+              </a> </div>
+            <div class="our-achivement"> <a href="#">
+              <div class="achivement-bg">
+                <div class="title-icon-thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/achivement-2.png" /></div>
+                <h4>Work Out</h4>
+              </div>
+              </a> </div>
+            <div class="our-achivement"> <a href="#">
+              <div class="achivement-bg">
+                <div class="title-icon-thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/achivement-3.png" /></div>
+                <h4>Get Result</h4>
+              </div>
+              </a> </div>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+      <!-- .end section class -->
+      <div class="clear"></div>
+    </div>
+    
   <section style="background-color:#fefefe; " id="section1" class="menu_page">
     <div class="container">
       <div class="">
@@ -670,43 +707,7 @@ ul.list-style li:before, ul.list-style li a:hover, .counterlist h3.counter, .con
     </div>
     <!-- container --> 
   </section>
-  <section style="background-color:#f7f7f7; " id="section5" class="menu_page">
-    <div class="container">
-      <div class="">
-        <div class="area_row">
-          <div class="left-column-50">
-            <div class="history_thumbnail_image">
-              <div class="thumbnail_image"><img src="<?php echo get_template_directory_uri(); ?>/images/thumbnail-2.jpg" /></div>
-            </div>
-          </div>
-          <div class="right-column-50">
-            <div class="sec_content_main_title" style="text-align:left; color:#282828"><span class="sub-title-head" style="text-align:left;">Have Extra Weight?</span>Lose your weight in just 2 weeks</div>
-            <div class="subtitle" style="font-size:17px; color:#494848; margin:0 0 50px 0; text-align:left;">Praesent nec metus malesuada, sollicitudin arcu nec, pharetr felis. Ut sollicitudin ut lectus feugiat sodales. Aliquam erat volut. Quisque tempus pulvinar nibh, sit amet varius ex fringilla vitae. Sed pharetra diam ut leo efficitur eleifend. Integer ut auctor justo. Praesent inday viverra dui. Aenean aliquet neque <a class="AppLink" href="" target=""></a></div>
-            <div class="our-achivement"> <a href="#">
-              <div class="achivement-bg">
-                <div class="title-icon-thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/achivement-1.png" /></div>
-                <h4>Visit Our Gym</h4>
-              </div>
-              </a> </div>
-            <div class="our-achivement"> <a href="#">
-              <div class="achivement-bg">
-                <div class="title-icon-thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/achivement-2.png" /></div>
-                <h4>Work Out</h4>
-              </div>
-              </a> </div>
-            <div class="our-achivement"> <a href="#">
-              <div class="achivement-bg">
-                <div class="title-icon-thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/achivement-3.png" /></div>
-                <h4>Get Result</h4>
-              </div>
-              </a> </div>
-          </div>
-          <div class="clear"></div>
-        </div>
-      </div>
-      <!-- .end section class -->
-      <div class="clear"></div>
-    </div>
+  
     <!-- container --> 
   </section>
   <section style="background-color:#efbf01; " id="section6" class="menu_page">
